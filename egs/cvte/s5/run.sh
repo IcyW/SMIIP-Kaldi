@@ -20,8 +20,7 @@ done
 test_data=data/fbank/test
 dir=exp/chain/tdnn
 
-#steps/nnet3/decode.sh --acwt 1.0 --post-decode-acwt 10.0 \
-steps/decode.sh --acwt 1.0 --post-decode-acwt 10.0 \
+steps/nnet3/decode.sh --acwt 1.0 --post-decode-acwt 10.0 \
   --nj 4 --num-threads 1 \
   --cmd "$decode_cmd" --iter final \
   --frames-per-chunk 50 \
