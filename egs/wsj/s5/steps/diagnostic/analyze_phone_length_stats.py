@@ -92,13 +92,17 @@ while True:
     if len(a) != 4:
         sys.exit("analyze_phone_length_stats.py: reading stdin, could not interpret line: " + line)
     try:
+        print(a)
         count, boundary_type, phone, length = a
+        print('1')
         total_phones[boundary_type] += int(count)
         total_frames[boundary_type] += int(count) * int(length)
         phone_lengths[boundary_type][int(phone)][int(length)] += int(count)
+        print(a)
         if int(phone) in nonsilence:
             nonsilence_phone = 0
             phone_lengths[boundary_type][nonsilence_phone][int(length)] += int(count)
+        print('2')
     except Exception as e:
         sys.exit("analyze_phone_length_stats.py: unexpected phone {0} "
                  "seen (lang directory mismatch?): {1}".format(phone, str(e)))

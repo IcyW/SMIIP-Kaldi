@@ -1,0 +1,602 @@
+一四二零一七二四三三
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+一六三五七四六七
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+四三五八一九八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+三七三六四五
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+三九六四九九零三四四五一二八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+九六四二一九七七六八四六
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+二九三零三四三九三三零
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+二一四六四七七
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+八一三二一三九二七
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+三一零九零五二二零八五四
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+一四五七一一六七
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+四九三五五二七九一
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+五三六八二九二八九八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+二七七五三九七一一
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七六一七三三七
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+二八九零七七一九二三七六
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+一二八六四九四二一五七八五一三
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七九八一二六四六四四二
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+零四一二二五五二二七六零三三五
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+四零二七八一八六九七七九九一八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+六四四三二八三一五九九三二
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+四八九六零二二八七零
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+零四二九九零四六八四
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+八零七一七八二五九八九
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+五零二九一三一零五四八六五
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七二五二四七七五四七一六八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+三六六七二五八七三一五八零三三
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+九零三九五七七一二七二一一
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+三九三二七三三一三二一一一二
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+五二七零四一二三一一四七
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+九六二一八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+一六五八四五
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+二六六五五零三一八四六七零三
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+三九五七零七二零八五五九
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+零八六八九三七六九九五五五八七
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+二三五五四零三
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七三一九八五七一零二
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+三七九零八六三零七零五一
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+三三七二三四五一三
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+三零零零三一
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+四六五五三五一九二五七二三
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+八三六五七零八三
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+六九七五二九
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+零七九八三九四七
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+九三七四三五三九八八三
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+零三八一一一五零八九一零九零六
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+九一一七八七四零九零六九四五五
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+二七一一一一七零三七六
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+八九二七九四二七六六一六九
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+五八八八一二五七零三七六四七三
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+二零九二三二七五
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+六零五三二五四二一
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+一四二一九五八九八一二七五
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+五二四五一二八五七七三四
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+一四四一五一九六
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+九四四八零
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+五四九四二八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+零六三九三二一零二
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+八七九七九九六五
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+六二八九七二八六七
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+九四一九三八九二五二五五
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+三二一一零零六一七七八二二
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七零五一八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+四三四七三三二二零一二
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+三二五五九三三四八零三六
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+八九三五九八七二六零
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+二九四七八五二七三一八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+九零五零二六八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+二六五七八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七一八一六八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+零六零一八一三九八二八五四二五
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+八五二八五二五
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+六五三九二零七九零
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+八八三零五四七八四九九
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+九一一七八五八九一六
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七六二五七八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+零三四三五零三六六八零五六八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+二八一二七八一二
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+零六四四一一六五四
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+一三五一八零一五五九零五
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+五一五三四零八九八一四
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七一四二一八一一零四八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七三八八三四二九三七五三
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+零五零八零二零五二四四一八五
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+八七七六四二九四八四
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+五五六四二九二零
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+六六一零一零七九二零八九
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+九三六四九
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七九九二五零三二七一八
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七二五五九七零三六
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七六四零二二
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+八零六零四
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+三八一五四七八八三八二二二一
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+六五二九四八三一五七三三六七四
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七六九五七八四
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+四七三零六
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+七二五九四四五零五零三六
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+八五三八零五二六二七二七
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+四八六三七九
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+六九八三九九七一八三零九三
+	p( <unk> | <s> ) 	= [OOV] 0 [ -inf ]
+	p( </s> | <unk> ...) 	= [1gram] 0.09225097 [ -1.035029 ]
+1 sentences, 1 words, 1 OOVs
+0 zeroprobs, logprob= -1.035029 ppl= 10.83999 ppl1= undefined
+
+file testfile.txt: 100 sentences, 100 words, 100 OOVs
+0 zeroprobs, logprob= -103.5029 ppl= 10.83999 ppl1= undefined
